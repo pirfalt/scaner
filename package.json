@@ -1,0 +1,23 @@
+{
+  "name": "scaner",
+  "version": "0.0.1",
+  "description": "Stateful function. Almost like reduce, but for repeated function calls.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pirfalt/scaner.git"
+  },
+  "keywords": [
+    "scan",
+    "reduce"
+  ],
+  "author": "Emil Pirfält",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pirfalt/scaner/issues"
+  },
+  "homepage": "https://github.com/pirfalt/scaner"
+}
